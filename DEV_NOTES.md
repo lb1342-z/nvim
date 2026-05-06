@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Consolidated duplicate helper functions
+
+## 2026-05-06
+- Pinned dependency versions for reproducibility
